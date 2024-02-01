@@ -1,0 +1,11 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bannar{
+    background-image: url(/images/bannerlinkedin_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+
+}
